@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Cookie</string>
+    <string name="start">Start</string>
+    <string name="next">Next</string>
+    <string name="prev">Prev</string>
+    <string name="banner">Banner</string>
 </resources>
